@@ -1,8 +1,8 @@
-Q1 
+//Q1 
 const c = "Balaji";
 console.log(c + " intial Value"); //Balaji
 c = "S S"; // Changing the value of const c :
-Q2 : 
+//Q2 : 
 var str = "Balaji";
 Q2(str);
 function Q2(str) {
@@ -15,7 +15,7 @@ function Q2(str) {
     }
 
 }
-Q3 :
+//Q3 :
 var Order = {
     id: 11,
     title: 'order',
